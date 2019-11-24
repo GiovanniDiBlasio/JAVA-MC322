@@ -1,5 +1,5 @@
 package br.unicamp.ic.mc322.cinema;
-
+import com.google.gson.Gson;
 public class SistemaCompraIngresso {
 	
 	

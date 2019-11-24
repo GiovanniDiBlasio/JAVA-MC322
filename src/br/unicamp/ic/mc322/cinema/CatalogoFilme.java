@@ -1,5 +1,8 @@
 package br.unicamp.ic.mc322.cinema;
 import java.util.ArrayList;
+
+
+
 public class CatalogoFilme {
 	private ArrayList<Filme> filmes = new ArrayList<Filme>();
 	public CatalogoFilme() {
